@@ -2,6 +2,7 @@
 
 **Remote TCP Monitor** is a centralized network tool for viewing real-time TCP and UDP connection details across local and remote hosts. Designed for enterprise-level service monitoring, it offers powerful remote access capabilities and centralized management to ensure network availability and operational clarity.
 
+![Agent Deployment Flow](images/ORT_GUI.png)
 ---
 
 ## 🔍 Key Features
