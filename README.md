@@ -45,7 +45,7 @@ Whether managing a few servers or a distributed infrastructure, Remote TCP Monit
 
 ---
 
-## 🛒 Microsoft Store Versions
+## 🛒 UWP app from Microsoft Store
 
 | Version | Description | Store Link |
 |--------|-------------|------------|
