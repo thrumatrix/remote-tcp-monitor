@@ -2,7 +2,7 @@
 
 **Remote TCP Monitor** is a centralized network tool for viewing real-time TCP and UDP connection details across local and remote hosts. Designed for enterprise-level service monitoring, it offers powerful remote access capabilities and centralized management to ensure network availability and operational clarity.
 
-![Agent Deployment Flow](images/ORT_GUI.png)
+![ORT GUI](images/ORT_GUI.png)
 ---
 
 ## 🔍 Key Features
@@ -20,7 +20,7 @@
   Instant visibility into service status for diagnostics and troubleshooting.
 
 - 🔍 **Detailed Endpoint View**  
-  Displays TCP/UDP listening ports, connection states, local/remote addresses, and associated process names.
+  Displays TCP/UDP listening ports, connection states, local/remote addresses, associated process and module names, network traffic, etc.
 
 ---
 
@@ -47,7 +47,7 @@ Whether managing a few servers or a distributed infrastructure, Remote TCP Monit
 
 ## 🛒 UWP app from Microsoft Store
 
-| Version | Description | Store Link |
+| Edition | Description | Store Link |
 |--------|-------------|------------|
 | **Trial** | Full monitoring features with a 30-day trial period | [Get Trial](https://apps.microsoft.com/detail/9N9VFVV2KVJG?hl=en-us&gl=CN&ocid=pdpshare) |
 | **Std** | Full monitoring features for small networks | [Get Std](https://apps.microsoft.com/detail/9N0M98DCR26T?hl=en-us&gl=CN&ocid=pdpshare) |
