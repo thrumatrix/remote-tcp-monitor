@@ -56,7 +56,7 @@ Whether managing a few servers or a distributed infrastructure, Remote TCP Monit
 
 ## 📦 Installation
 
-To install Remote TCP Monitor agents remotely, use the ONE Series Remote Installation Framework.  
+To install Remote TCP Monitor agents remotely, it is recommended to use the built-in ONE Series Remote Installation Framework.  
 Refer to the [Installation Guide](docs/installation.md) for step-by-step instructions.
 
 ---
