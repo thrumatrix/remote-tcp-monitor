@@ -64,7 +64,7 @@ Refer to the [Installation Guide](docs/installation.md) for step-by-step instruc
 
 ## 📄 License
 
-This repository is for documentation and binary distribution only.
+This repository is for documentation and binary distribution only.  
 Forking is not permitted for derivative work or redistribution.  
 Remote TCP Monitor is a **commercial product** and not open source.
 
