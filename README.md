@@ -51,7 +51,7 @@ Whether managing a few servers or a distributed infrastructure, Remote TCP Monit
 |--------|-------------|------------|
 | **Trial** | Full monitoring features with a 30-day trial period | [Get Trial](https://apps.microsoft.com/detail/9N9VFVV2KVJG?hl=en-us&gl=CN&ocid=pdpshare) |
 | **Std** | Full monitoring features for small networks | [Get Std](https://apps.microsoft.com/detail/9N0M98DCR26T?hl=en-us&gl=CN&ocid=pdpshare) |
-| **Pro** | Enterprise-grade monitoring for medium to large networks | [Get Pro](https://apps.microsoft.com/detail/9P4GP7TWN8ML?hl=en-us&gl=CN&ocid=pdpshare) |
+| **Pro** | Full monitoring features for medium to large networks | [Get Pro](https://apps.microsoft.com/detail/9P4GP7TWN8ML?hl=en-us&gl=CN&ocid=pdpshare) |
 
 ---
 
