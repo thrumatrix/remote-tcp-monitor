@@ -4,7 +4,7 @@ This guide explains how to install and deploy **Remote TCP Monitor** and its cor
 
 ---
 
-## 1. Remote TCP Monitor (UWP App)
+## Remote TCP Monitor (UWP App)
 
 The main application is distributed via Microsoft Store.  
 To install, visit the appropriate version link:
@@ -15,23 +15,7 @@ To install, visit the appropriate version link:
 
 ---
 
-## 2. Remote TCP Monitor (Win32 App)
-
-The Win32 version of Remote TCP Monitor is available from the official Toposoft download portal:
-
-🔗 [Download from Toposoft](https://ort.toposoft.top:8882/downloads.html)
-
-- Includes `.msi` installer for traditional desktop environments
-- **Trial version** is free to use
-- **Standard** and **Pro** editions require activation and include lifetime updates and support
-
-> ⚠️ Some antivirus software (e.g., Windows Defender) may falsely flag the installer as malicious (e.g., *Trojan:Script/Wacatac.B!ml*).  
-> This is a known false positive. Please verify the installer using SHA256 checksum if needed.  
-> See [Microsoft's explanation](https://learn.microsoft.com/en-us/answers/questions/465937/msi-is-detected-by-windows-defender-and-it-shows-t) for more details.
-
----
-
-## 3. TCPv Service (Agent Component)
+## 2. TCPv Service (Agent Component)
 
 **TCPv Service** is a core agent responsible for collecting TCP and UDP connection data from remote hosts. It supports both **automatic deployment** and **manual installation**, depending on your network environment.
 
