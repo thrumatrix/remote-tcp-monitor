@@ -49,9 +49,9 @@ Whether managing a small server pool or a large, heterogeneous distributed infra
 
 ## 🖥️ Supported Operating Systems & Architectures
 
-This section outlines officially validated platform specifications for both the **Controller (GUI Management Console)** and the **Monitored Target Devices (TCPv Agent Services)**.
+This section outlines officially validated platform specifications for both the **Controller GUI (Management Console)** and the **Monitored Target Devices (TCPv Agent Services)**.
 
-### 1. Controller (Management Console)
+### 1. Controller GUI (Management Console)
 
 The management console runs on 64-bit Microsoft Windows platforms. On Windows ARM64 devices (such as Snapdragon X processors), it runs seamlessly via Microsoft's built-in compatibility layer.
 
@@ -63,7 +63,7 @@ The management console runs on 64-bit Microsoft Windows platforms. On Windows AR
 
 ### 2. Monitored Target Devices (TCPv Agent Services)
 
-Client machines are target hosts and appliances monitored remotely via the `tcpvsvcd` daemon. Select the target architecture via the **Select OS Arch** menu during host configuration to deploy the correct binary.
+Client machines are target hosts and appliances monitored remotely via the TCPv service daemon. Select the target architecture via the **Select OS Arch** menu during host configuration to deploy the correct binary.
 
 | Operating System / Target Platform | Target Architecture / Platform | Minimum Supported Version | Architecture Details & Common Hardware | Status |
 | :--- | :--- | :--- | :--- | :---: |
