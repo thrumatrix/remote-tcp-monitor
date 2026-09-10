@@ -69,7 +69,7 @@ Client machines are target hosts and appliances monitored remotely via the TCPv 
 | :--- | :--- | :--- | :--- | :---: |
 | **Windows** | **x64 (64-bit)** | Windows 10 / Server 2016 | Standard PC / Workstation / Server (Intel/AMD 64-bit) | Supported |
 | | **ARM64** | Windows 11 Build 22000+ | Modern ARM 64-bit (Windows on ARM / Snapdragon X) | Supported |
-| **macOS** | **ARM64** | macOS 11.0 (Big Sur) | Modern ARM 64-bit (Apple Silicon - M1/M2/M3/M4) | Supported |
+| **macOS** | **ARM64** | macOS 11.0 (Big Sur) | Modern ARM 64-bit (Apple Silicon M-Series) | Supported |
 | | **x86_64** | macOS 11.0 (Big Sur) | Legacy Intel Mac (Intel Core/Xeon 64-bit) | Supported |
 | **Linux**<br>*(Includes embedded devices like NAS, Routers, Gateways)* | **x86_64** | Kernel 2.6.39+ | Standard PC, Cloud Server, x86 NAS (Synology, QNAP, Unraid) | Supported |
 | | **ARM64 / AArch64** | Kernel 3.10+ | Modern ARM Servers, Single-Board Computers, ARM NAS, Raspberry Pi 4/5 | Supported |
