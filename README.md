@@ -87,9 +87,9 @@ Client machines are target hosts and appliances monitored remotely via the TCPv 
 
 | Edition | Description | Store Link |
 |--------|-------------|------------|
-| **Trial** | Full monitoring features with a 30-day trial period | [Get Trial](https://apps.microsoft.com/detail/9N9VFVV2KVJG?hl=en-us&gl=CN&ocid=pdpshare) |
-| **Std** | Full monitoring features for small networks | [Get Std](https://apps.microsoft.com/detail/9N0M98DCR26T?hl=en-us&gl=CN&ocid=pdpshare) |
-| **Pro** | Full monitoring features for medium to large networks | [Get Pro](https://apps.microsoft.com/detail/9P4GP7TWN8ML?hl=en-us&gl=CN&ocid=pdpshare) |
+| **Trial** | Full monitoring features for 30 days; continues in Local Free mode afterward. | [Get Trial](https://apps.microsoft.com/detail/9N9VFVV2KVJG?hl=en-us&gl=CN&ocid=pdpshare) |
+| **Std** | Full monitoring features for small networks with up to 100 monitored devices. | [Get Std](https://apps.microsoft.com/detail/9N0M98DCR26T?hl=en-us&gl=CN&ocid=pdpshare) |
+| **Pro** | Full monitoring features for medium to large networks with unlimited monitored devices. | [Get Pro](https://apps.microsoft.com/detail/9P4GP7TWN8ML?hl=en-us&gl=CN&ocid=pdpshare) |
 
 ---
 
@@ -102,9 +102,9 @@ Refer to the [Installation Guide](docs/installation.md) for step-by-step instruc
 
 ## 📄 License
 
-This repository is for documentation and binary distribution only.  
-Forking is not permitted for derivative work or redistribution.  
-Remote TCP Monitor is a **commercial product** and not open source.
+This website is for documentation and binary distribution only.
+Forking for derivative work or redistribution is not permitted.
+Remote TCP Monitor is a commercial product, not open source.
 
 ---
 
